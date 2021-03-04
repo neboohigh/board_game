@@ -1,0 +1,6 @@
+.gameBoard {
+    grid-area: gb;
+    background-color: salmon;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}

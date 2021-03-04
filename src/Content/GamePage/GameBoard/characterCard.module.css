@@ -1,0 +1,24 @@
+.characterCard {
+    background-color: skyblue;
+    margin:  5px;
+}
+
+
+.injury {
+    display: inline-block;
+    width: 50%;
+    height: 20%;
+    background-color: red;
+}
+
+.thirst {
+    display: inline-block;
+    width: 50%;
+    height: 20%;
+    background-color: rgb(86, 86, 255);
+}
+
+.charCard {
+    background-color: purple;
+    margin: 10px;
+}

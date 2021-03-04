@@ -1,0 +1,24 @@
+.userMenu {
+    background-color: sandybrown;
+    grid-area: um;
+
+    display: grid;
+    grid-template-columns: 2fr 1fr 5fr;
+}
+
+.actions {
+    display: grid;
+    grid-template-rows: 6;
+}
+
+.supplyCard {
+    background-color: brown;
+    margin: 5px;
+}
+
+.supplyList {
+    background-color: cadetblue;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr 1fr;
+}

@@ -1,0 +1,4 @@
+.sideBar {
+    grid-area: sb;
+    background-color: violet;
+}
